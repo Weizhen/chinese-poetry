@@ -28,7 +28,7 @@ def get_page_content(page: int) -> list:
         else:
             content[-1]["author"] = a.string
     for c in content:
-        c["paragraphs"] = get_paragraphs(int(c["param"][0]), int(c["param"][1]))
+        c["content"] = get_paragraphs(int(c["param"][0]), int(c["param"][1]))
         del c["param"]
     return content
 
@@ -65,14 +65,14 @@ def only_text(text: str):
 
 def update_file_data(old_data: list, new_data: list):
     for i in range(len(old_data)):
-        old_text = only_text("".join(old_data[i]["paragraphs"]))
-        new_text = only_text("".join(new_data[start + i]["paragraphs"]))
+        old_text = only_text("".join(old_data[i]["content"]))
+        new_text = only_text("".join(new_data[start + i]["content"]))
         # 计算纯文字的相似度
         ratio = SequenceMatcher(a=old_text, b=new_text).quick_ratio()
         if 0.9 <= ratio < 1.0:
             # 假定此范围内说明缺字，需要更新
             old_data[i]["author"] = new_data[start + i]["author"]
-            old_data[i]["paragraphs"] = new_data[start + i]["paragraphs"]
+            old_data[i]["content"] = new_data[start + i]["content"]
         elif ratio < 0.9:
             # 异常情况warning输出，不更新
             logging.warning(old_text)
@@ -105,10 +105,10 @@ char_dict = {
 def correct(old_data: list):
     """ 部分繁体转为简体 """
     for i in range(len(old_data)):
-        for j in range(len(old_data[i]["paragraphs"])):
+        for j in range(len(old_data[i]["content"])):
             for k, v in char_dict.items():
-                if k in old_data[i]["paragraphs"][j]:
-                    old_data[i]["paragraphs"][j] = old_data[i]["paragraphs"][j].replace(k, v)
+                if k in old_data[i]["content"][j]:
+                    old_data[i]["content"][j] = old_data[i]["content"][j].replace(k, v)
 
 
 if __name__ == '__main__':

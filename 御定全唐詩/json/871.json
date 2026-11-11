@@ -3,7 +3,7 @@
         "title": "與王仙客互嘲",
         "author": "甘洽",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "王，計爾應姓田。為你面撥獺，抽卻你兩邊。——甘洽",
             "甘，計爾應姓丹。為你頭不曲，回腳向上安。——仙客"
         ],
@@ -17,7 +17,7 @@
         "title": "題濠州高塘館",
         "author": "閻敬愛",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "借問襄王安在哉，山川此地勝陽臺。",
             "今宵寓宿高塘館，神女何曾入夢來。"
         ],
@@ -31,7 +31,7 @@
         "title": "題敬愛詩後",
         "author": "李和風",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "高唐不是這高塘，淮畔荊南各異方。",
             "若向此中求薦枕，參差笑殺楚襄王。"
         ],
@@ -45,7 +45,7 @@
         "title": "答日休皮字詩",
         "author": "歸氏子",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "八片尖裁浪作球，火中燖了水中揉。",
             "一包閒氣如長在，惹踢招拳卒未休。"
         ],
@@ -59,7 +59,7 @@
         "title": "謔池亳二州賓佐兼寄宣武軍掌書記李晝",
         "author": "張魯封",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "杜叟學仙輕蕙質，韋公事佛畏青娥。",
             "樂營卻是閒人管，兩地風情日漸多。"
         ],
@@ -73,7 +73,7 @@
         "title": "戲酬張魯封",
         "author": "李晝",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "秋浦亞卿顏叔子，譙都中憲老桑門。",
             "如今柳巷通車馬，唯恐他時立棘垣。"
         ],
@@ -87,7 +87,7 @@
         "title": "即事",
         "author": "楊鸞",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "白日蒼蠅滿飯盤，夜間蚊子又成團。",
             "每到更深人靜後，定來頭上咬楊鸞。"
         ],
@@ -101,7 +101,7 @@
         "title": "嘲周顓",
         "author": "座客",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "龍津掉尾十年勞，聲價當時鬥月高。",
             "惟有紅妝回舞手，似持霜刀向猿猱。"
         ],
@@ -115,7 +115,7 @@
         "title": "和座客",
         "author": "周顓",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "十載文場敢憚勞，宋都回鶂為風高。",
             "今朝甘被花枝笑，任道尊前愛縛猱。"
         ],
@@ -129,7 +129,7 @@
         "title": "答或人",
         "author": "張鷟",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "寧可且將朱唇飲酒，誰能逐你黑齒常之。"
         ],
         "notes": [
@@ -142,7 +142,7 @@
         "title": "嘲崔嘏",
         "author": "施肩吾",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "二十九人及第，五十七眼看花。"
         ],
         "notes": [
@@ -155,7 +155,7 @@
         "title": "嶺南詩句",
         "author": "蘇芸",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "郭裏多榕樹，街中足使君。"
         ],
         "notes": [
@@ -168,7 +168,7 @@
         "title": "諧詩逸句",
         "author": "包賀",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "霧是山巾子，船為水靸鞋。",
             "棹搖船掠鬢，風動水槌胸。",
             "苦竹筍抽青橛子，石榴樹掛小瓶兒。"
@@ -183,7 +183,7 @@
         "title": "題洞庭湖",
         "author": "蔡押衙",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "可憐洞庭湖，恰到三冬無髭須。"
         ],
         "notes": [
@@ -196,7 +196,7 @@
         "title": "戲令狐相",
         "author": "溫庭筠",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "自從元老登庸後，天下諸胡悉帶鈴。"
         ],
         "notes": [
@@ -209,7 +209,7 @@
         "title": "與羅隱互謔",
         "author": "顧雲",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "青蠅被扇扇離席，——顧雲",
             "白澤遭釘釘在門。——羅隱"
         ],
@@ -223,7 +223,7 @@
         "title": "引自落便宜句",
         "author": "孫光憲",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "窗下有時留客宿，室中無事伴僧眠。"
         ],
         "notes": [
@@ -236,7 +236,7 @@
         "title": "嘲廩丘令丞",
         "author": "商則",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "令丞俱動手，縣尉止回身。"
         ],
         "notes": [
@@ -249,7 +249,7 @@
         "title": "題漢祖廟",
         "author": "羅穎",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "項羽英雄猶不懼，可憐容得辟陽侯。"
         ],
         "notes": [
@@ -262,7 +262,7 @@
         "title": "自賦催妝詩",
         "author": "陳嶠",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "彭祖尚聞年八百，陳郎猶是小孩兒。"
         ],
         "notes": [
@@ -275,7 +275,7 @@
         "title": "戲為舉子對句",
         "author": "何承裕",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "曉來犬吠張三婦，日暮猿啼呂四妻。"
         ],
         "notes": [
@@ -288,7 +288,7 @@
         "title": "答弟婦歇後語",
         "author": "李濤",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "慚無竇建，愧作梁山。"
         ],
         "notes": [
@@ -301,7 +301,7 @@
         "title": "與釋惠江互謔",
         "author": "程紫霄",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "僧錄琵琶腿，——程紫霄",
             "先生觱栗頭。——釋惠江"
         ],
@@ -315,7 +315,7 @@
         "title": "與李榮互謔",
         "author": "僧法軌",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "姓李應須禮，言榮又不榮。——僧法軌",
             "身長三尺半，頭毛猶未生。——李榮"
         ],

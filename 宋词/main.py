@@ -30,7 +30,7 @@ open('author.song.json', 'w').write(json.dumps(authors, indent=2, ensure_ascii=F
 
 cursor = c.execute("SELECT rhythmic, author, content from ci;")
 
-d = {"rhythmic": None, "author": None, "paragraphs": None}
+d = {"rhythmic": None, "author": None, "content": None}
 
 cis = []
 
@@ -38,7 +38,7 @@ for row in cursor:
     ci = OrderedDict(sorted(d.items(), key=lambda t: t[0]))
     ci["rhythmic"] = row[0]
     ci["author"] = row[1]
-    ci["paragraphs"] = row[2].split('\n')
+    ci["content"] = row[2].split('\n')
     cis.append(ci) 
 
 for i in range(0, 21050, 1000):

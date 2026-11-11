@@ -3,7 +3,7 @@
         "title": "二賀詩",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "學行可師賀德基，文質彬彬賀德仁。"
         ],
         "notes": [
@@ -16,7 +16,7 @@
         "title": "四王語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "甯向儋崖振白，不事江滕蔣虢。"
         ],
         "notes": [
@@ -29,7 +29,7 @@
         "title": "時人為屈突語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "寧食三鬥艾，不見屈突蓋。寧服三鬥蔥，不逢屈突通。"
         ],
         "notes": [
@@ -42,7 +42,7 @@
         "title": "楊刺史語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "甯食三鬥蒜，不逢楊德幹。"
         ],
         "notes": [
@@ -55,7 +55,7 @@
         "title": "萬年人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "寧飲三鬥塵，無逢權懷恩。"
         ],
         "notes": [
@@ -68,7 +68,7 @@
         "title": "贊皇人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "太沖無兄，孝端無弟。"
         ],
         "notes": [
@@ -81,7 +81,7 @@
         "title": "高宗時語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "左相宣威沙漠，右相馳譽丹青。",
             "三館學生放散，五台令史經明。"
         ],
@@ -95,7 +95,7 @@
         "title": "時人為李義甫語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "今日巨唐年，還誅四凶族。"
         ],
         "notes": [
@@ -108,7 +108,7 @@
         "title": "洛州語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "洛州有前賈後張，可敵京兆三王。"
         ],
         "notes": [
@@ -121,7 +121,7 @@
         "title": "江淮間語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "貴如許郝，富若田彭。"
         ],
         "notes": [
@@ -134,7 +134,7 @@
         "title": "河北語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "唯此兩何，殺人最多。"
         ],
         "notes": [
@@ -147,7 +147,7 @@
         "title": "李昭德為王弘義語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "昔聞蒼鷹獄吏，今見白兔禦史。"
         ],
         "notes": [
@@ -160,7 +160,7 @@
         "title": "京洛語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "衣裳好，儀貌惡。不姓許，即姓郝。"
         ],
         "notes": [
@@ -173,8 +173,9 @@
         "title": "台中語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
-            "侯知一不伏致仕，張悰自請起複。高筠不肯作孝，"
+        "content": [
+            "侯知一不伏致仕，張悰自請起復。",
+            "高筠不肯作孝，張栖貞情願遭憂。"
         ],
         "notes": [
             ""
@@ -186,7 +187,7 @@
         "title": "吏人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "不畏侯卿杖，惟畏尹卿筆。"
         ],
         "notes": [
@@ -199,7 +200,7 @@
         "title": "選人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "有錢石上好，無錢劉下好，士大夫張下好。",
             "碩學師劉子，儒生用與言。",
             "今年柿子並遭霜，為語石榴須早摘。"
@@ -214,7 +215,7 @@
         "title": "韋氏語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "大郎罷相，小郎拜相。"
         ],
         "notes": [
@@ -227,7 +228,7 @@
         "title": "益州人吏語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "錄事意，與天通，益州司馬折威風。"
         ],
         "notes": [
@@ -240,7 +241,7 @@
         "title": "天授中語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "遇徐杜者必生，遇來侯者必死。"
         ],
         "notes": [
@@ -253,7 +254,7 @@
         "title": "時人為鄒昉語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "蕭佺駙馬子，鄒昉駱駝兒。非關道德合，只為錢相知。"
         ],
         "notes": [
@@ -266,7 +267,7 @@
         "title": "題張昌儀門語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "一兩絲能得幾時絡。"
         ],
         "notes": [
@@ -279,7 +280,7 @@
         "title": "時人號李知遠語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "李下無蹊。"
         ],
         "notes": [
@@ -292,7 +293,7 @@
         "title": "又號李乂語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "李下無蹊徑。"
         ],
         "notes": [
@@ -305,7 +306,7 @@
         "title": "竇僕射語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "竇僕射，前為韋氏國yQ，後作公主邑丞。"
         ],
         "notes": [
@@ -318,7 +319,7 @@
         "title": "時人為崔無詖語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "皇后嫁女，天子娶婦。"
         ],
         "notes": [
@@ -331,7 +332,7 @@
         "title": "神龍中語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "崔冉鄭，亂時政。"
         ],
         "notes": [
@@ -344,7 +345,7 @@
         "title": "斜封官語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "姚宋為相，邪不如正。太平用事，正不如邪。"
         ],
         "notes": [
@@ -357,7 +358,7 @@
         "title": "李處鬱語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "飧若入咽，百無一全。"
         ],
         "notes": [
@@ -370,7 +371,7 @@
         "title": "景雲初語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "前有裴馬，後有盧李。"
         ],
         "notes": [
@@ -383,7 +384,7 @@
         "title": "先天時京中語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "姜師度一心看地，傅孝忠兩眼相天。"
         ],
         "notes": [
@@ -396,7 +397,7 @@
         "title": "時人號王丘、崔沔語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "丘山岌岌連天峻，沔水澄澄澈底清。"
         ],
         "notes": [
@@ -409,7 +410,7 @@
         "title": "吏部過官語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "麟之口，光庭手。"
         ],
         "notes": [
@@ -422,7 +423,7 @@
         "title": "郇公廚語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "人欲不飯筋骨舒，夤緣須入郇公廚。"
         ],
         "notes": [
@@ -435,7 +436,7 @@
         "title": "四俊語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "令君四俊，苗呂崔員。"
         ],
         "notes": [
@@ -448,7 +449,7 @@
         "title": "八友語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "殷顏柳陸，李蕭邵趙。"
         ],
         "notes": [
@@ -461,7 +462,7 @@
         "title": "羅吉口號",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "羅鉗吉網。"
         ],
         "notes": [
@@ -474,7 +475,7 @@
         "title": "裏閭詛語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "若違教，值三豹。"
         ],
         "notes": [
@@ -487,7 +488,7 @@
         "title": "陝州語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "不須賽神明，不必求巫祝。爾莫犯盧公，立便有禍福。"
         ],
         "notes": [
@@ -500,7 +501,7 @@
         "title": "真源邑語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "南金口，明府手。"
         ],
         "notes": [
@@ -513,7 +514,7 @@
         "title": "稱二王語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "朝廷左相筆，天下右丞詩。"
         ],
         "notes": [
@@ -526,7 +527,7 @@
         "title": "代宗朝京師語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "常無分別元好錢，賢者愚，愚者賢。"
         ],
         "notes": [
@@ -539,7 +540,7 @@
         "title": "戲諫司語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "韓諫議雖分左右，歸拾遺莫辨存亡。"
         ],
         "notes": [
@@ -552,7 +553,7 @@
         "title": "裴度語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "雞豬魚蒜，逢著則吃。生老病死，時至則行。"
         ],
         "notes": [
@@ -565,7 +566,7 @@
         "title": "魏博語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "長安天子，魏府牙軍。"
         ],
         "notes": [
@@ -578,7 +579,7 @@
         "title": "寶曆宮中語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "寶帳香重重，一雙紅芙蓉。"
         ],
         "notes": [
@@ -591,7 +592,7 @@
         "title": "京師人號牛楊語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "太牢筆，少牢口，東西南北何處走。"
         ],
         "notes": [
@@ -604,7 +605,7 @@
         "title": "又號牛李",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "門生故吏，不牛則李。。"
         ],
         "notes": [
@@ -617,7 +618,7 @@
         "title": "荊南語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "旱不苦，禱而雨。雨不愁，公出遊。"
         ],
         "notes": [
@@ -630,7 +631,7 @@
         "title": "鄭仁表自語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "天瑞有五色雲，人瑞有鄭仁表。"
         ],
         "notes": [
@@ -643,7 +644,7 @@
         "title": "湖蘇二郡語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "湖接兩頭，蘇聯三尾。"
         ],
         "notes": [
@@ -656,7 +657,7 @@
         "title": "廣明初都人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "黃賊打黑賊。"
         ],
         "notes": [
@@ -669,7 +670,7 @@
         "title": "吏部舊語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "長名以前，選人屬侍郎。長名以後，侍郎屬選人。"
         ],
         "notes": [
@@ -682,7 +683,7 @@
         "title": "省中語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "後行祠屯，不博中行都門；中行禮部，不博前行駕庫。"
         ],
         "notes": [
@@ -695,7 +696,7 @@
         "title": "郎吏語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "司門水部，入省不數。"
         ],
         "notes": [
@@ -708,7 +709,7 @@
         "title": "諫院台省語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "遺補相惜，禦史相憎，郎官相輕。"
         ],
         "notes": [
@@ -721,7 +722,7 @@
         "title": "禦史台語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "事長如事端。"
         ],
         "notes": [
@@ -734,7 +735,7 @@
         "title": "京兆府語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "不立兩縣令，不坐兩少尹。"
         ],
         "notes": [
@@ -747,7 +748,7 @@
         "title": "翰林諫議語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "饒道鬥上坡去，亦須卻下坡來。"
         ],
         "notes": [
@@ -760,7 +761,7 @@
         "title": "舉子語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "槐花黃，舉子忙。"
         ],
         "notes": [
@@ -773,7 +774,7 @@
         "title": "明經進士語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "三十老明經，五十少進士。"
         ],
         "notes": [
@@ -786,7 +787,7 @@
         "title": "雜帖語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "常雜鮑帖。"
         ],
         "notes": [
@@ -799,7 +800,7 @@
         "title": "閩人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "歐陽獨步，藻蘊橫行。"
         ],
         "notes": [
@@ -812,7 +813,7 @@
         "title": "舉場語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "欲入舉場，先問蘇張。蘇張猶可，三楊殺我。"
         ],
         "notes": [
@@ -825,7 +826,7 @@
         "title": "大中後進士語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "欲得命通，問瑝嵎都雍。"
         ],
         "notes": [
@@ -838,7 +839,7 @@
         "title": "大中時語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "鄭楊段薛，炙手可熱。欲得命通，魯紹瑰蒙。"
         ],
         "notes": [
@@ -851,8 +852,9 @@
         "title": "選舉人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
-            "王凝裴瓚。舍弟安潛。朝中無呼字，知聞廳裏，"
+        "content": [
+            "王凝裴瓚，舍弟安潛。",
+            "朝中無呼字，知聞廳裏，絕脫鞾賓客。"
         ],
         "notes": [
             ""
@@ -864,7 +866,7 @@
         "title": "科目舉人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "未見王竇，徒勞漫走。"
         ],
         "notes": [
@@ -877,7 +879,7 @@
         "title": "戲杜審權語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "座主審權，門生處權。"
         ],
         "notes": [
@@ -890,7 +892,7 @@
         "title": "崔沆放榜時人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "座主門生，沆瀣一家。"
         ],
         "notes": [
@@ -903,7 +905,7 @@
         "title": "唐末五代人語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "及第不必讀書，作官何須事業。"
         ],
         "notes": [
@@ -916,7 +918,7 @@
         "title": "號沈宋語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "蘇李居前，沈宋比肩。"
         ],
         "notes": [
@@ -929,7 +931,7 @@
         "title": "號錢郎語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "前有沈宋，後有錢郎。"
         ],
         "notes": [
@@ -942,7 +944,7 @@
         "title": "潘何詩賦語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "潘緯十年吟古鏡，何涓一夜賦瀟湘。"
         ],
         "notes": [
@@ -955,7 +957,7 @@
         "title": "魏薛草書語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "前有虞褚，後有薛魏。"
         ],
         "notes": [
@@ -968,7 +970,7 @@
         "title": "薛稷書語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "買褚得薛不落節。"
         ],
         "notes": [
@@ -981,7 +983,7 @@
         "title": "時人為劉畢語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "劉郎中松樹孤標，畢庶子松根絕妙。"
         ],
         "notes": [
@@ -994,7 +996,7 @@
         "title": "時人為黃筌語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "黃筌畫鶴，薛稷減價。"
         ],
         "notes": [
@@ -1007,7 +1009,7 @@
         "title": "時人為楊惠之語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "道子畫，惠之塑，奪得僧繇神筆路。"
         ],
         "notes": [
@@ -1020,7 +1022,7 @@
         "title": "道傑語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "大頭傑，難殺人。"
         ],
         "notes": [
@@ -1033,7 +1035,7 @@
         "title": "馬周疏引俚語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "貧不學儉，富不學奢。"
         ],
         "notes": [
@@ -1046,7 +1048,7 @@
         "title": "杜甫引俚語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "城南韋杜，去天尺五。"
         ],
         "notes": [
@@ -1059,7 +1061,7 @@
         "title": "《孫光憲瑣言》引古語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "乘船走馬，去死一分。",
             "好事不出門，惡事行千里。"
         ],
@@ -1073,7 +1075,7 @@
         "title": "杜重威引俚語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "逢賊得命，更望複子。"
         ],
         "notes": [
@@ -1086,7 +1088,7 @@
         "title": "建安語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "龍門一半在閩川。"
         ],
         "notes": [
@@ -1099,7 +1101,7 @@
         "title": "江陵語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "琵琶多於飯甑，措大多於鯽魚。"
         ],
         "notes": [
@@ -1112,7 +1114,7 @@
         "title": "汾晉間語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "欲作千箱主，問取黃金母。"
         ],
         "notes": [
@@ -1125,7 +1127,7 @@
         "title": "秦中兒童語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "顛當牢守門，蠮螉寇汝無處奔。"
         ],
         "notes": [
@@ -1138,7 +1140,7 @@
         "title": "滄洲語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "不戴金蓮花，不得到仙家。"
         ],
         "notes": [
@@ -1151,7 +1153,7 @@
         "title": "《段成式酉陽雜俎》引古語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "三守庚申三屍伏，七守庚申七尺滅。"
         ],
         "notes": [
@@ -1164,7 +1166,7 @@
         "title": "佛書引語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "停囚長智。",
             "赤腳人趁兔，著靴人吃肉。"
         ],

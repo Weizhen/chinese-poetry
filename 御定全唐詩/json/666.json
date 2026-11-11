@@ -3,7 +3,7 @@
         "title": "比紅兒詩",
         "author": "羅虯",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "姓字看侵尺五天，芳菲占斷百花鮮。",
             "馬嵬好笑當時事，虛賺明皇幸蜀川。",
             "金穀園中花正繁，墜樓從道感深恩。",
@@ -215,7 +215,7 @@
         "title": "句",
         "author": "羅虯",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "窗前遠岫懸生碧，簾外殘霞掛熟紅。"
         ],
         "notes": [

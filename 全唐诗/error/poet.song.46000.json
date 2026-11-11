@@ -1,7 +1,7 @@
 [
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩裏將軍已築壇，後來裨將欲登難。",
       "已驚老健蘇梅在，更作風流王謝看。",
       "□出定知書滿腹，瘦生應爲語雕肝。",
@@ -22,7 +22,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "披雲離北巌，度嶺入中夏。",
       "重藉剪楚茅，方函斲英檟。",
       "騷壇意莫逆，匠石語□奓。",
@@ -71,7 +71,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "光風爲花好，奕奕弄清溫。",
       "撩理鶑情趣，留連蝶夢魂。",
       "飲酣浮倒暈，舞倦怯新翻。",
@@ -91,7 +91,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "橋下幽亭近水寒，倩誰□字在楣端。",
       "市廛得此尤堪隠，老者於今只自安。",
       "飯後徐行扶竹杖，倦來穩坐倚蒲團。",
@@ -111,7 +111,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "苦霧收殘文豹別，怒濤驚起老蟠□。"
     ],
     "strains": [
@@ -125,7 +125,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：無題首句：引手攀紅櫻。"
     ],
     "strains": [
@@ -139,7 +139,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：李白謫仙詩首句：我居青空裏。"
     ],
     "strains": [
@@ -153,7 +153,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：轆轤歌首句：新繫青絲百尺繩。"
     ],
     "strains": [
@@ -167,7 +167,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：藏春塢首句：朱閣前頭露井多。"
     ],
     "strains": [
@@ -181,7 +181,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：題懷素草帖首句：人人送酒不曾沽。"
     ],
     "strains": [
@@ -195,7 +195,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：送淡公二首首句：燕本冰雪骨，坐重青草公。"
     ],
     "strains": [
@@ -209,7 +209,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：元祐癸酉八月二十七日於建隆章凈館書贈王覯首句：海上東風犯雪來。"
     ],
     "strains": [
@@ -223,7 +223,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：跋姜君弼課冊首句：雲興天際。"
     ],
     "strains": [
@@ -237,7 +237,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：和人回文五首首句：紅窗小泣低聲怨，同誰更倚閒窗羣。",
       "寒信風飄霜葉黄，前堂畫燭夜凝淚。"
     ],
@@ -253,7 +253,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：老翁井首句：井中老翁誤年華。"
     ],
     "strains": [
@@ -267,7 +267,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：送蜀僧去塵首句：十年讀易費膏火。"
     ],
     "strains": [
@@ -281,7 +281,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：謝曹子方惠新茶首句：陳植文華斗石高。"
     ],
     "strains": [
@@ -295,7 +295,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：書堂嶼首句：蒼山古木書堂嶼。"
     ],
     "strains": [
@@ -309,7 +309,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：龐公首句：襄陽龐公少檢束。"
     ],
     "strains": [
@@ -323,7 +323,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：戲書首句：五言七言正兒戲。"
     ],
     "strains": [
@@ -337,7 +337,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：散郎亭首句：法花下有散郎亭。"
     ],
     "strains": [
@@ -351,7 +351,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：柏家渡首句：柏家渡西日欲落。"
     ],
     "strains": [
@@ -365,7 +365,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：觀大水望朝陽巌作首句：朝陽巌前不結廬。"
     ],
     "strains": [
@@ -379,7 +379,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：黄州首句：南山一尺雪。"
     ],
     "strains": [
@@ -393,7 +393,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：古風首句：精神洞元化。"
     ],
     "strains": [
@@ -407,7 +407,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：雷州八首首句：白髮坐泝黨荔子無幾何下居近流水培塿無松柏粵嶺風俗殊粵女市無常海康臘己酉舊時日南郡。"
     ],
     "strains": [
@@ -421,7 +421,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：揚州以土物寄少游首句：鮮鯽經年祕醽醁。"
     ],
     "strains": [
@@ -435,7 +435,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：飲酒四首首句：我觀人間世左手持蟹螯有客遠方來雷觴淡于水。"
     ],
     "strains": [
@@ -449,7 +449,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：絕句三首首句：松柏蕭森溪水南此身分付一蒲團天風吹月入欄干。"
     ],
     "strains": [
@@ -463,7 +463,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：竹枝詞首句：自過鬼門關外天。"
     ],
     "strains": [
@@ -477,7 +477,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：次晁无咎韵閻子常携琴入村首句：士寒餓。"
     ],
     "strains": [
@@ -491,7 +491,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：惠崇蘆雁首句：惠崇烟雨蘆雁。"
     ],
     "strains": [
@@ -505,7 +505,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：過土山寨首句：南風日日縱篙撐。"
     ],
     "strains": [
@@ -519,7 +519,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：和黄龍清老三首首句：萬山不隔中秋月風前橄欖星宿落騎馿覓馿真可笑。"
     ],
     "strains": [
@@ -533,7 +533,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：謝惠貓兒頭筍首句：長沙一日煨籩筍。"
     ],
     "strains": [
@@ -547,7 +547,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：題浄因壁首句：暝倚蒲團卧鉢囊。"
     ],
     "strains": [
@@ -561,7 +561,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：題浄因院首句：門外黄塵不見山。"
     ],
     "strains": [
@@ -575,7 +575,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：同景文咏蓮塘首句：塘上鈎簾對晚香。"
     ],
     "strains": [
@@ -589,7 +589,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：睡起首句：柿葉滿庭紅顆秋。"
     ],
     "strains": [
@@ -603,7 +603,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：秋思寄子由首句：黄葉山川知晚秋。"
     ],
     "strains": [
@@ -617,7 +617,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：送柳宜歸首句：折脚鐺邊煨淡粥。"
     ],
     "strains": [
@@ -631,7 +631,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：萬州太守高公宿約游岑公洞而夜雨連明戲贈二小詩首句：肩輿欲到岑公洞蓬窗高枕雨如繩。"
     ],
     "strains": [
@@ -645,7 +645,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：贈仲勉子文首句：雨昏南浦曾相對。"
     ],
     "strains": [
@@ -659,7 +659,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：講武臺南有感首句：山城九月冒朝寒。"
     ],
     "strains": [
@@ -673,7 +673,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：東園首句：岑寂東園可散愁。"
     ],
     "strains": [
@@ -687,7 +687,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：答子勉三首首句：君不登郎省驚人得佳句歐倩腰支柳一渦。"
     ],
     "strains": [
@@ -701,7 +701,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：戲題巫山縣用杜子美韵首句：巴俗深留客。"
     ],
     "strains": [
@@ -715,7 +715,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：戲咏子舟畫兩竹兩鸜鵒首句：風晴日暖摇雙竹。"
     ],
     "strains": [
@@ -729,7 +729,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：次韵謝子高讀淵明詩首句：枯木嵌空微黯淡。"
     ],
     "strains": [
@@ -743,7 +743,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：古意首句：兒童鞭笞學官府。"
     ],
     "strains": [
@@ -757,7 +757,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：再過泗上二首首句：眼明初見淮南樹繫舟淮北雨折軸。"
     ],
     "strains": [
@@ -771,7 +771,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：昭陵六馬唐文皇戰馬也琢石象之立昭陵前客有持此石本示予爲賦之首句：天將剗隋亂。"
     ],
     "strains": [
@@ -785,7 +785,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：寄歐叔弼首句：昔葬衣冠今在否。"
     ],
     "strains": [
@@ -799,7 +799,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：和子由次王鞏韵如囊之句可爲一噱首句：平生未省爲人忙。"
     ],
     "strains": [
@@ -813,7 +813,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：題盧鴻學士堂圖首句：昔爲太室游。"
     ],
     "strains": [
@@ -827,7 +827,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：贈仲素寺丞致仕歸隠潛山首句：潛山隠君七十四。"
     ],
     "strains": [
@@ -841,7 +841,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：申王畫馬圖首句：天寶諸王愛名馬。"
     ],
     "strains": [
@@ -855,7 +855,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：侯灘首句：江邊皎皎過侯灘。"
     ],
     "strains": [
@@ -869,7 +869,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：火星巌首句：火星巌下石凌壁。"
     ],
     "strains": [
@@ -883,7 +883,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：滄州亭懷古首句：湘水悠悠天際來。"
     ],
     "strains": [
@@ -897,7 +897,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：送公爲游淮南首句：負米萬里緣其親。"
     ],
     "strains": [
@@ -911,7 +911,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：池上二首首句：小池新鑿會天雨不作太白夢日邊。"
     ],
     "strains": [
@@ -925,7 +925,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：陳伯比和回字復次韵首句：田里馮生寧屑去。"
     ],
     "strains": [
@@ -939,7 +939,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：次韵張甥棠美述志首句：仲子甘心織屨避萬鍾。"
     ],
     "strains": [
@@ -953,7 +953,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：移合浦郭功甫見寄首句：君恩浩蕩似陽春。"
     ],
     "strains": [
@@ -967,7 +967,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：次韵參寥寄少游首句：巌棲木石已皤然。"
     ],
     "strains": [
@@ -981,7 +981,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：秋晚客興首句：草滿池塘霜送梅。"
     ],
     "strains": [
@@ -995,7 +995,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：和寄天選長官首句：離形宇宙間。"
     ],
     "strains": [
@@ -1009,7 +1009,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：題女唱驛首句：攬轡金房道。"
     ],
     "strains": [
@@ -1023,7 +1023,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：次韵張甥棠美晝眠首句：炎歊六月北窗凉。"
     ],
     "strains": [
@@ -1037,7 +1037,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：寶墨亭首句：山陰不見換鵝經。"
     ],
     "strains": [
@@ -1051,7 +1051,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：西湖絕句首句：畢竟西湖六月中。"
     ],
     "strains": [
@@ -1068,7 +1068,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：雪詩八首首句：石泉凍合竹無風閑來披氅學王恭半夜欺凌范叔袍兒童龜手握輕明天工呈瑞足人心海風吹浪去無邊高下橫斜薄又濃萬石千鈞積累成。"
     ],
     "strains": [
@@ -1082,7 +1082,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：老人行首句：有一老翁老無齒。"
     ],
     "strains": [
@@ -1096,7 +1096,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：游山呈通判承議寫寄參寥師。"
     ],
     "strains": [
@@ -1110,7 +1110,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "首句：煌煌世胄餘出處：《七集續集》卷一。"
     ],
     "strains": [
@@ -1124,7 +1124,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "首句：偉人謀議不求多出處：《七集續集》卷二。"
     ],
     "strains": [
@@ -1138,7 +1138,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：題雙楠軒首句：南軒前頭兩佳木。"
     ],
     "strains": [
@@ -1152,7 +1152,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：僧首句：一鉢即生涯。"
     ],
     "strains": [
@@ -1166,7 +1166,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：牡丹首句：綺席偏宜晝。"
     ],
     "strains": [
@@ -1180,7 +1180,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：蓮五首首句：城中擔上賣蓮房綠玉蜂房白玉蟬蜂不禁人採蜜忙山蜂愁雨損蜂兒蜂兒來自宛溪中。"
     ],
     "strains": [
@@ -1194,7 +1194,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：送馮判官之昌國首句：斬蛟將軍飛上天。"
     ],
     "strains": [
@@ -1208,7 +1208,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：馬子約送茶作六言謝之首句：珍重繡衣直指。"
     ],
     "strains": [
@@ -1222,7 +1222,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：壽呂帥首句：穆穆三階正。"
     ],
     "strains": [
@@ -1236,7 +1236,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：壽陳同知首句：上界森嚴官府足。"
     ],
     "strains": [
@@ -1250,7 +1250,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：壽叔父首句：燁燁蒼龍宿。"
     ],
     "strains": [
@@ -1264,7 +1264,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：失題二首首句：山行似覺鳥聲殊浮雲有意藏山頂。"
     ],
     "strains": [
@@ -1278,7 +1278,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：試院觀伯時畫馬絕句首句：竹頭搶地風不舉。"
     ],
     "strains": [
@@ -1292,7 +1292,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：沿流館中得二絕句首句：淮西功業冠吾唐李白當年流夜郎。"
     ],
     "strains": [
@@ -1306,7 +1306,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：劉顗宮苑退老於廬山石碑庵顗陝西人本進士換武家有聲伎首句：山西舊將本書生泝弓挂壁耻言勳肩輿已棄躡風騅。"
     ],
     "strains": [
@@ -1323,7 +1323,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：蔡洲首句：蔡洲昔人居。"
     ],
     "strains": [
@@ -1337,7 +1337,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：失題二首首句：足躡平都左洞天平都天下古名山。"
     ],
     "strains": [
@@ -1351,7 +1351,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：與道源游西莊遇齊道人同往草堂爲齊書此首句：桑麻已零落。"
     ],
     "strains": [
@@ -1365,7 +1365,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：白鶴吟留鍾山覺海首句：白鶴聲可憐。"
     ],
     "strains": [
@@ -1379,7 +1379,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：驪山首句：君門如天深幾重。"
     ],
     "strains": [
@@ -1393,7 +1393,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：贈山谷子首句：黄童三尺世無雙。"
     ],
     "strains": [
@@ -1407,7 +1407,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：答晁以道索書首句：閱世真難記。"
     ],
     "strains": [
@@ -1421,7 +1421,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：謝都事惠米首句：平生忍慾今忍貧。"
     ],
     "strains": [
@@ -1435,7 +1435,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：和南都趙少師首句：富貴功名已兩忘。"
     ],
     "strains": [
@@ -1449,7 +1449,7 @@
   },
   {
     "author": "蘇軾",
-    "paragraphs": [
+    "content": [
       "詩題：寄汝陰少師首句：得時行道善知終。"
     ],
     "strains": [

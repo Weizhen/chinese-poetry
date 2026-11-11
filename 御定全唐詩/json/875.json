@@ -3,7 +3,7 @@
         "title": "唐受命讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "法律存，道德在，白旗天子出東海。",
             "桃李子，莫浪語。黃鵠繞山飛，宛轉花園裏。",
             "桃花園，宛轉屬旌幡。",
@@ -21,7 +21,7 @@
         "title": "勸進疏引讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "東海十八子，八井喚三軍。手持雙白雀，頭上戴紫雲。",
             "丁醜語甲子，深藏八堂裏。何意坐堂裏，中央有天子。",
             "西北天火照，龍山昭童子。赤光連北斗，童子木上懸白幡。",
@@ -43,7 +43,7 @@
         "title": "符鳳引讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "黑衣神孫披天裳。"
         ],
         "notes": [
@@ -56,7 +56,7 @@
         "title": "安祿山古讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "兩角女子綠衣裳，端坐太行邀君王，一止之月必消亡。"
         ],
         "notes": [
@@ -69,7 +69,7 @@
         "title": "普滿題潞州佛舍",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "此水連涇水，雙珠血滿川。青牛將赤虎，還號太平年。"
         ],
         "notes": [
@@ -82,7 +82,7 @@
         "title": "南省北街人吟",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "放榜只應三月暮，登科又校一年遲。"
         ],
         "notes": [
@@ -95,7 +95,7 @@
         "title": "盧求榜讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "裴頭黃尾，三求六李。"
         ],
         "notes": [
@@ -108,7 +108,7 @@
         "title": "清僧示趙宗儒",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "梨花發後杏花初，甸邑南來慶有餘。"
         ],
         "notes": [
@@ -121,7 +121,7 @@
         "title": "又示段文昌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "去日既逢梅蕊綻，來時應見杏花開。"
         ],
         "notes": [
@@ -134,7 +134,7 @@
         "title": "洛城五鳳樓中歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "天津橋畔火光起，魏王堤上看洪水。"
         ],
         "notes": [
@@ -147,7 +147,7 @@
         "title": "延和閣詩",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "延和高閣上幹雲，小語猶疑太乙聞。",
             "燒盡降真無一事，開門迎得畢將軍。"
         ],
@@ -161,7 +161,7 @@
         "title": "唐舊讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "兔子上金床。"
         ],
         "notes": [
@@ -174,7 +174,7 @@
         "title": "越中狂生題旗亭",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "日日草重生，悠悠傍素城。諸侯逐兔白，夏滿鏡湖平。"
         ],
         "notes": [
@@ -187,7 +187,7 @@
         "title": "清泰三年歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "丙申年，數在五樓前。但看八九月，胡虜亂中原。"
         ],
         "notes": [
@@ -200,7 +200,7 @@
         "title": "蜀王氏讖文",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "李祜西王逢吉昌，上德兌興丹莫當。"
         ],
         "notes": [
@@ -213,7 +213,7 @@
         "title": "黃萬祜題蜀宮壁",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "莫交牽動青豬足，動即炎炎不可撲。",
             "鷙獸不欲兩頭黃，黃即其年天下哭。"
         ],
@@ -227,7 +227,7 @@
         "title": "孟蜀丐者語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "不得登，登便倒。"
         ],
         "notes": [
@@ -240,7 +240,7 @@
         "title": "孟蜀桃符詩",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "新年納餘慶，嘉節號長春。"
         ],
         "notes": [
@@ -253,7 +253,7 @@
         "title": "上藍和尚晉漢二代讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "石榴花發石榴開。"
         ],
         "notes": [
@@ -266,7 +266,7 @@
         "title": "又遺鐘傳偈",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "但看來年二三月，柳條堪作打鐘槌。"
         ],
         "notes": [
@@ -279,7 +279,7 @@
         "title": "又報王審知十字讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "不怕羊入屋，只怕錢入腹。"
         ],
         "notes": [
@@ -292,7 +292,7 @@
         "title": "錢處士李氏讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "仿佛之間一倍楊。"
         ],
         "notes": [
@@ -305,7 +305,7 @@
         "title": "孫咸題廬山神廟詩",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "獨入玄宮禮至真，焚香不為賤貧身。秦淮兩岸沙埋骨，",
             "九江太守勤王室，好放天兵渡要津。"
         ],
@@ -319,7 +319,7 @@
         "title": "南唐江州風墜詩",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "由來秉節世無雙，獨守孤城死不降。",
             "何似知機早回首，免教流血滿長江。"
         ],
@@ -333,7 +333,7 @@
         "title": "杭州還鄉和尚唱",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "還鄉寂寂杳無蹤，不掛征帆水陸通。",
             "蹋得故鄉回地穩，更無南北與西東。"
         ],
@@ -347,7 +347,7 @@
         "title": "福州記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "潮水來，岩頭沒。潮水去，矢口出。"
         ],
         "notes": [
@@ -360,7 +360,7 @@
         "title": "黃涅盤讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "先打南，後打北，留取清源作佛國。"
         ],
         "notes": [
@@ -373,7 +373,7 @@
         "title": "陳智廣讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "騎馬來，騎馬去。"
         ],
         "notes": [
@@ -386,7 +386,7 @@
         "title": "又讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "功下田，力交連。井底坐，二十年。"
         ],
         "notes": [
@@ -399,7 +399,7 @@
         "title": "僧緘示王處厚",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "周士同成，二王殊名。王居一焉，百日為程。"
         ],
         "notes": [
@@ -412,7 +412,7 @@
         "title": "任叟書授劉生",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "承欲往梁宋，梁宋災方重，旦夕為人訟。",
             "承欲訪鄭生，鄭生將有厄。即為千里客，兼亦變衫色。"
         ],
@@ -426,7 +426,7 @@
         "title": "昌明裏中讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "欲知修續者，腳下是生毛。"
         ],
         "notes": [
@@ -439,7 +439,7 @@
         "title": "宋善威詩",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "月落三株樹，日映九重天。良夜歡宴罷，暫別庚申年。"
         ],
         "notes": [
@@ -452,7 +452,7 @@
         "title": "田承嗣誑李寶臣偽讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "二帝同功勢萬全，將田作伴入幽燕。"
         ],
         "notes": [
@@ -465,7 +465,7 @@
         "title": "皮日休造黃巢讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "欲知聖人姓，田八二十一。欲知聖人名，果頭三屈律。"
         ],
         "notes": [
@@ -478,8 +478,12 @@
         "title": "附：上元初嵩山石記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
-            "木子當天下，止戈龍。李代代不移宗，"
+        "content": [
+            "木子當天下。",
+            "止戈龍。",
+            "李代代不移宗。",
+            "中鼎顯真容。",
+            "基千萬歲。"
         ],
         "notes": [
             ""
@@ -491,7 +495,7 @@
         "title": "上陽銅器篆",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "長宜子孫。"
         ],
         "notes": [
@@ -504,7 +508,7 @@
         "title": "永安渠石銘",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "百年為市後為池。"
         ],
         "notes": [
@@ -517,7 +521,7 @@
         "title": "漳泉分地神篆",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "漳泉兩州，分地太平。永安龍溪，山高氣清。",
             "千年不惑，萬古作程。"
         ],
@@ -531,7 +535,7 @@
         "title": "含元殿丹石隱語",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "天漢二年，赤光生栗。木下有子，傷心遇酷。"
         ],
         "notes": [
@@ -544,7 +548,7 @@
         "title": "長安空宅銘篆",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "夏天子紫金三十斤，賜有德者。"
         ],
         "notes": [
@@ -557,7 +561,7 @@
         "title": "莆田石記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "石敢當，鎮百鬼，壓災殃。官吏福，百姓康。",
             "風教盛，禮樂昌。"
         ],
@@ -571,7 +575,7 @@
         "title": "符離樹穴中石篆",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "旁有水，上有道，八百年中逢栲栳。"
         ],
         "notes": [
@@ -584,8 +588,9 @@
         "title": "淮西池濠石銘",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
-            "井底一竿竹，竹色深綠綠。雞未肥，酒未熟，"
+        "content": [
+            "井底一竿竹，竹色深綠綠。",
+            "雞未肥，酒未熟，障車兒郎且須縮。"
         ],
         "notes": [
             ""
@@ -597,7 +602,7 @@
         "title": "羅池石刻",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "龍城柳，神所守。驅厲鬼，山左首。福土氓，制九醜。"
         ],
         "notes": [
@@ -610,9 +615,18 @@
         "title": "道者遺記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
-            "武之在卯，堯王八季。我棄其寢，我去其扆。深深然，",
-            "焰焰其光，和和其始。東方有兔，小首元尾。經過吾道，"
+        "content": [
+            "武之在卯，堯王八季。",
+            "我棄其寢，我去其扆。",
+            "深深然，高高然。",
+            "人不吾知，又不吾謂。",
+            "由今之後，二百餘祀。",
+            "燄燄其光，和和其始。",
+            "東方有兔，小首元尾。",
+            "經過吾道，來至吾里。",
+            "飲吾泉以醉，登吾榻而寐。",
+            "刻乎其壁，奧乎其義。",
+            "人誰以辨，其東平子。"
         ],
         "notes": [
             ""
@@ -624,7 +638,7 @@
         "title": "王璠石銘",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "山有石，石有玉。玉有瑕，即休也。"
         ],
         "notes": [
@@ -637,7 +651,7 @@
         "title": "玄元觀棟桁記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "山水誰無言，元年有福重修。"
         ],
         "notes": [
@@ -650,7 +664,7 @@
         "title": "天臺觀石簡記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "海水竭，臺山缺，皇家寶祚無休歇。"
         ],
         "notes": [
@@ -663,7 +677,7 @@
         "title": "成都羅城北門石記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "五五複五五，五五逾重數。浮世若浮雲，金石一如故。",
             "與君相見時，杳杳非今土。"
         ],
@@ -677,7 +691,7 @@
         "title": "青羊宮磚記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "太平平中元災。"
         ],
         "notes": [
@@ -690,8 +704,10 @@
         "title": "銅雀台玉板篆",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
-            "上土巴灰除虛除，伊尹東北八九餘。秦趙多應分五玉，"
+        "content": [
+            "上土巴灰除虛除，伊尹東北八九餘。",
+            "秦趙多應分五玉，絲竹木子世世居。",
+            "但看六六百中外，世主難留如國如。"
         ],
         "notes": [
             ""
@@ -703,7 +719,7 @@
         "title": "顯德道宮石記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "瑞雲靈跡鎮梁東，他日多應與古同。",
             "歲月遷移人事改，再來閑處又興功。"
         ],
@@ -717,7 +733,7 @@
         "title": "南唐升元殿基下石記",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "莫問江南事，江南事可憑。抱雞升寶位，跨犬出金陵。",
             "子建司南位，安仁秉夜燈。東鄰嬌小女，騎虎渡河冰。"
         ],
@@ -731,7 +747,7 @@
         "title": "馬殷浚城石碣篆",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "龍舉頭，猳掉尾。羊為兄，猴作弟。羊歸穴，猴離次。"
         ],
         "notes": [
@@ -744,7 +760,7 @@
         "title": "王霸仙壇磚刻",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "樹枯不用伐，壇壞不須結。未滿一千歲，自有系孫列。",
             "後來是三皇，潮水蕩禍殃。岩逢二乍間，未免有消亡。",
             "子孫依吾道，代代封閩疆。"
@@ -759,7 +775,7 @@
         "title": "劉龑石讖",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "人人有一，山山值牛。兔絲吞骨，蓋海承劉。"
         ],
         "notes": [
@@ -772,7 +788,7 @@
         "title": "南漢羅浮古劍篆文",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "丁與水同宮，王將耳口同。尹來居口上，山岫獲重重。"
         ],
         "notes": [
@@ -785,7 +801,7 @@
         "title": "司馬承禎含象鑒文",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "天地含象，日月貞明。寫規萬物，洞鑒百靈。",
             "龜自蔔，鏡自照。吉可募，光不曜。",
             "青蓋作鏡大吉昌，巧工刊之成文章。左龍右虎辟不祥，"
@@ -800,7 +816,7 @@
         "title": "景震劍文",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "撝雷電，運玄星。摧兇惡，亨利貞。",
             "幹降精，坤應靈。日月象，嶽瀆形。"
         ],
@@ -814,7 +830,7 @@
         "title": "高麗鏡文",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "三水中，四維下，上帝降子于辰馬。先操雞，後搏鴨。",
             "己年中，二龍見。一則藏身青木中，一則見形黑金東。"
         ],
@@ -828,7 +844,7 @@
         "title": "京西市放生池墓銘",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "龜言市，蓍言水。"
         ],
         "notes": [
@@ -841,7 +857,7 @@
         "title": "古墓蔔地詞",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "爾後一千歲，此地化為泉。賴逢鄔侍禦，移我向高原。"
         ],
         "notes": [
@@ -854,7 +870,7 @@
         "title": "衛先生墓銘",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "姜師度，更移向南三五步。"
         ],
         "notes": [
@@ -867,7 +883,7 @@
         "title": "隱者瘞男銘",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "神真煉形年未足，化為我子功相續。",
             "丞相瘞之刻玄玉，仙路何長死何促。"
         ],
@@ -881,7 +897,7 @@
         "title": "烏氏葬碑",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "牛領岡頭，紅簫籠下。葬用兩日，手板相亞。"
         ],
         "notes": [
@@ -894,7 +910,7 @@
         "title": "岩腹棺銘",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "欲墮不墮逢王果，五百年中重收我。"
         ],
         "notes": [
@@ -907,7 +923,7 @@
         "title": "古棺石銘",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "欲陷不陷被藤縛，欲落不落被沙閣，五百年後遇熊博。"
         ],
         "notes": [
@@ -920,7 +936,7 @@
         "title": "漣水古塚瓶文",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "一雙青烏子，飛來五兩頭。借問船輕重，寄信到揚州。"
         ],
         "notes": [
@@ -933,7 +949,7 @@
         "title": "沈彬壙篆",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "佳城今已開，雖開不葬埋。漆燈猶未滅，留待沈彬來。"
         ],
         "notes": [
@@ -946,7 +962,7 @@
         "title": "廣陵古塚石刻",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "日為箭兮月為弓，四時躬人兮無窮。但得天將明月死，",
             "猿啼鳥嘯煙濛濛，千年萬年松柏風。"
         ],
@@ -960,8 +976,12 @@
         "title": "王承檢掘得墓銘",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
-            "車道之北，邽山之陽。深深葬玉，鬱鬱埋香。刻斯貞石，"
+        "content": [
+            "車道之北，邽山之陽。",
+            "深深葬玉，鬱鬱埋香。",
+            "刻斯貞石，煥乎遺芳。",
+            "地變陵谷，嶮列城隍。",
+            "乾德丙年，壞者合郎。"
         ],
         "notes": [
             ""
@@ -973,7 +993,7 @@
         "title": "馬希振葬地碣",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "亂石之壤，絕世之岡。谷變庚戌，馬氏無王。"
         ],
         "notes": [

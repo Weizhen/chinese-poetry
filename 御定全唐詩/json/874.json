@@ -3,7 +3,7 @@
         "title": "廉州人歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "廉州顏有道，性行同莊老。愛民如赤子，不殺非時草。"
         ],
         "notes": [
@@ -16,7 +16,7 @@
         "title": "滄州百姓歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "新河得通舟楫利，直達滄海魚鹽至。",
             "昔日徒行今騁駟，美哉薛公德滂被。"
         ],
@@ -30,7 +30,7 @@
         "title": "薛將軍歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "將軍三箭定天山，戰士長歌入漢關。"
         ],
         "notes": [
@@ -43,7 +43,7 @@
         "title": "郢州人歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "父母育我田使君，精神為人上天聞。",
             "田中致雨山出雲，但願常在不患貧。"
         ],
@@ -57,8 +57,9 @@
         "title": "雒縣輿人誦",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
-            "我有聖帝撫令君，遭暴昏椽惸寡紛。民戶流散日月曛，"
+        "content": [
+            "我有聖帝撫令君，遭暴昏椽惸寡紛。",
+            "民戶流散日月曛，君去來兮惠我仁，百姓蘇矣見陽春。"
         ],
         "notes": [
             ""
@@ -70,7 +71,7 @@
         "title": "黃獐歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "黃獐黃獐草裏藏，彎弓射爾傷。"
         ],
         "notes": [
@@ -83,7 +84,7 @@
         "title": "桑條歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "桑條韋也，女時韋也樂。"
         ],
         "notes": [
@@ -96,7 +97,7 @@
         "title": "景龍中嘲宰相歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "禮賢不解開東閣，燮理惟能閉北門。"
         ],
         "notes": [
@@ -109,7 +110,7 @@
         "title": "選人歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "今年選數恰相當，都由座主無文章。",
             "案後一腔凍豬肉，所以名為姜侍郎。"
         ],
@@ -123,7 +124,7 @@
         "title": "魯城民歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "魯地抑種稻，一概被水沫。年年索蟹夫，百姓不可活。"
         ],
         "notes": [
@@ -136,7 +137,7 @@
         "title": "王法曹歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "前得尹佛子，後得王癩獺。判事驢咬瓜，喚人牛嚼沫。",
             "見錢滿面喜，無鏹從頭喝。常逢餓夜叉，百姓不可活。"
         ],
@@ -150,7 +151,7 @@
         "title": "得體歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "得體紇那也，紇囊得體那。潭裏船車鬧，揚州銅器多。",
             "三郎當殿坐，聽唱得體歌。"
         ],
@@ -164,7 +165,7 @@
         "title": "得寶歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "得寶耶，弘農耶？弘農耶，得寶耶？"
         ],
         "notes": [
@@ -177,7 +178,7 @@
         "title": "崔成甫翻得寶歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "得寶弘農野，弘農得寶那。潭裏船車鬧，揚州銅器多。",
             "三郎當殿坐，聽唱得寶歌。"
         ],
@@ -191,8 +192,9 @@
         "title": "袁仁敬歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
-            "天不恤冤人兮，何奪我慈親兮。有理無申兮，"
+        "content": [
+            "天不恤冤人兮，何奪我慈親兮。",
+            "有理無申兮，痛哉安訴陳兮。"
         ],
         "notes": [
             ""
@@ -204,7 +206,7 @@
         "title": "京兆二尹歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "前尹赫赫，具瞻允若。後尹熙熙，具瞻允斯。"
         ],
         "notes": [
@@ -217,7 +219,7 @@
         "title": "黃州左公歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "我欲逃鄉里，我欲去墳墓。左公今既來，誰忍棄之去。"
         ],
         "notes": [
@@ -230,7 +232,7 @@
         "title": "又歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "吾鄉有鬼巫，惑人人不知。天子正尊信，左公能殺之。"
         ],
         "notes": [
@@ -243,7 +245,7 @@
         "title": "舒州人歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "鄰邑穀不登，我土豐粢盛。禾稼美如雲，實系我使君。"
         ],
         "notes": [
@@ -256,7 +258,7 @@
         "title": "建州人歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "令我州郡泰，令我戶口裕，令我活計大，陸員外。",
             "令我家不分，令我馬成群，令我稻滿囷，陸使君。"
         ],
@@ -270,7 +272,7 @@
         "title": "吳人歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "朝判長洲暮判吳，道不拾遺人不孤。"
         ],
         "notes": [
@@ -283,7 +285,7 @@
         "title": "汴州人歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "濁流洋洋，有辟其郛。闐道嚾呼，公來之初。",
             "今公之歸，公在喪車。",
             "公既來止，東人以完。今公歿矣，人誰與安？"
@@ -298,7 +300,7 @@
         "title": "建昌民歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "我有父，何易於。昔無儲，今有餘。"
         ],
         "notes": [
@@ -311,7 +313,7 @@
         "title": "巴州薛刺史歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "日出而耕，日入而歸。吏不到門，夜不掩扉。",
             "有孩有童，願以名垂。何以字之，薛孫薛兒。"
         ],
@@ -325,7 +327,7 @@
         "title": "高苑令歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "高苑之樹枯已榮，淄川之水渾已澄，鄒邑之民僕已行。"
         ],
         "notes": [
@@ -338,7 +340,7 @@
         "title": "九龍帳歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "誰謂九龍帳，惟貯一歸郎。"
         ],
         "notes": [
@@ -351,7 +353,7 @@
         "title": "偽蜀鴛鴦樹歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "願作墳上鴛鴦，來作雙飛，去作雙歸。"
         ],
         "notes": [
@@ -364,7 +366,7 @@
         "title": "曲江遊人歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "春光且莫去，留與醉人看。"
         ],
         "notes": [
@@ -377,7 +379,7 @@
         "title": "蜥蜴求雨歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "蜥蜴蜥蜴，興雲吐霧。雨若滂沱，放汝歸去。"
         ],
         "notes": [
@@ -390,7 +392,7 @@
         "title": "挽歌",
         "author": "不詳",
         "biography": "",
-        "paragraphs": [
+        "content": [
             "紅輪決定沈西去，未委魂靈往那方。"
         ],
         "notes": [
